@@ -33,7 +33,7 @@ namespace RentCursoCSharp
             {
                 if (alunos[i] != null)
                 {
-                    Console.WriteLine(alunos[i].Quarto + ": " + alunos[i].Nome + ", " + alunos[i].Email);
+                    Console.WriteLine(alunos[i].Quarto + ": " + alunos[i]);
                 }
             }
 
