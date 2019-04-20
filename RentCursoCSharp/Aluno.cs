@@ -7,5 +7,6 @@ namespace RentCursoCSharp
         public string Email { get; set; }
         public int Quarto { get; set; }
 
+
     }
 }

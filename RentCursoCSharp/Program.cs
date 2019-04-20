@@ -9,7 +9,7 @@ namespace RentCursoCSharp
 
             Console.Write("Quantos quartos serão alugados? ");
             int n = int.Parse(Console.ReadLine());
-            Aluno[] alunos = new Aluno[10];
+            Aluno[] alunos = new Aluno[10]; //
             Console.WriteLine();
 
             for (int i = 0; i < n; i++)
